@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leandro.desouzalima1@gmail.com
+	name = Leandro Lima
